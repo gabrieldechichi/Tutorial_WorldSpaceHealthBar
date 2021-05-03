@@ -45,9 +45,4 @@ public class DamageableBehaviour : MonoBehaviour, IDamageable
             invulnerabilityExpireTime = Time.time + invulnerabilityWindow;
         }
     }
-
-    private void Update()
-    {
-        Debug.Log(CurrentHealth);
-    }
 }

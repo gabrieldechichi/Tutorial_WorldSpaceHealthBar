@@ -10,6 +10,6 @@ public class UIWorldBillboard : MonoBehaviour
 
     private void LateUpdate()
     {
-        transform.LookAt(transform.position + Cam.transform.rotation * Vector3.forward, Cam.transform.rotation * Vector3.up);
+        transform.LookAt(transform.position + Cam.transform.forward, Cam.transform.rotation * Vector3.up);
     }
 }
