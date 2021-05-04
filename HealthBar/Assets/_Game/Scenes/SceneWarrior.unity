@@ -1092,6 +1092,10 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2119985861, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3194424583978572227, guid: c96abfd7a3700fb408f7235b3955a1c4,
         type: 3}
       propertyPath: m_RootOrder
