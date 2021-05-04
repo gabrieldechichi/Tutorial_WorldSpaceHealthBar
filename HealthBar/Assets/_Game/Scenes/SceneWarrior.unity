@@ -1040,6 +1040,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 17716617, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 52283854, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1330863897, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1631701801, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2119985856, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0
@@ -1070,6 +1086,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2119985857, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2119985859, guid: c96abfd7a3700fb408f7235b3955a1c4, type: 3}
+      propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3194424583978572227, guid: c96abfd7a3700fb408f7235b3955a1c4,
